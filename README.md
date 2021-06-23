@@ -2,7 +2,8 @@
 [![wireframe](https://img.shields.io/badge/Paguei-Wireframe-brightgreen)](https://www.figma.com/file/c5wLhHxiovoxolea0oHwR5/Paguei?node-id=60189%3A1362)
 [![wireframe](https://img.shields.io/badge/PayFlow-Wireframe-orange)](https://www.figma.com/file/kLK7FYnWKMoN68sQXcSniu/PayFlow?node-id=0%3A1)
 [![github](https://img.shields.io/badge/PayFlow-Project-purple)](https://github.com/rocketseat-education/nlw-06-flutter)
-![Capa](https://user-images.githubusercontent.com/13178261/122857290-a196dc00-d2ee-11eb-9096-b2006b0f8865.png)
+![Capa](https://user-images.githubusercontent.com/13178261/123018503-0b71bd00-d3a5-11eb-8535-d1f93429824a.png)
+
 
 ## Paleta
 
