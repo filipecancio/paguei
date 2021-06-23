@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "711734697316",
+    "project_id": "paguei-nlw",
+    "storage_bucket": "paguei-nlw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711734697316:android:4a9d32cb7b651e2e7b2e71",
+        "android_client_info": {
+          "package_name": "dev.cancio.paguei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711734697316-ubploaq8pt2jdu4et6fd8cpt8d9sfbqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.cancio.paguei",
+            "certificate_hash": "ebce0f94d616e97940ec3f8e1424e240369dbdd6"
+          }
+        },
+        {
+          "client_id": "711734697316-gj4h9uslrli00nhorleubuom9f18grou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq9_G54PrT0XQqsgBgyQq3QjCkDbFXh8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711734697316-gj4h9uslrli00nhorleubuom9f18grou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
