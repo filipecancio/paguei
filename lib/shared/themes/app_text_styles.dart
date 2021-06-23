@@ -6,7 +6,7 @@ class TextStyles {
   static final titleHome = GoogleFonts.raleway(
     fontSize: 32,
     fontWeight: FontWeight.w600,
-    color: AppColors.green06,
+    color: AppColors.green08,
   );
   static final titleRegular = GoogleFonts.raleway(
     fontSize: 20,
