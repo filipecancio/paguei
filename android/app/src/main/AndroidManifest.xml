@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.paguei">
+    package="dev.cancio.paguei">
    <application
         android:label="paguei"
         android:icon="@mipmap/ic_launcher">

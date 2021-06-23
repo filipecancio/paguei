@@ -1,4 +1,4 @@
-package com.example.paguei
+package dev.cancio.paguei
 
 import io.flutter.embedding.android.FlutterActivity
 
